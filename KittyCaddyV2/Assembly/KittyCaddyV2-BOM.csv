@@ -1,0 +1,11 @@
+Designator,Quantity,Value,Footprint,LSCS Part #
+"C1, C5, C7, C8, C13, ",5,100n,805,C49678
+"C4, C6, C9, ",3,1u,805,C28323
+"C11, C12, ",2,18uF,805,C1797
+"D1, ",1,B540C,Diode_SMD:D_2010_5025Metric_Castellated,C22452
+"R1, ",1,50k,805,C17713
+"R2, ",1,220,805,C17557
+"R3, R4, ",2,10k,805,C17414
+"U1, ",1,ATmega328P-AU,Package_QFP:TQFP-32_7x7mm_P0.8mm,C14877
+"U2, ",1,XL2012,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,C73338
+"Y1, ",1,16MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,C13738
